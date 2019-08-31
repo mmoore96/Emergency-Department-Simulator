@@ -2,9 +2,9 @@
 //  Game.swift
 //  StarterGame
 //
-//  Created by Rodrigo Obando on 3/17/16.
-//  Copyright © 2016 Rodrigo Obando. All rights reserved.
-//
+//  Created by George Moore.
+//   
+// 
 
 import Foundation
 import Cocoa
